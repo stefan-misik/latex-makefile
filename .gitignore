@@ -1,0 +1,33 @@
+# JabRef
+*.bak
+*.bib$
+*.bib.sav
+
+# LaTeX
+*.aux
+*.log
+*.lof
+*.lot
+*.loa
+*.out
+*.toc
+*.synctex*
+*.fls
+*.fdb_latexmk
+*.auxlock
+*.tmp
+*.nav
+*.snm
+
+# PDFs
+*.pdf
+
+# Tikz
+*tikz_tmp/ 
+
+# BibTeX
+*.bbl
+*.blg
+
+# TeXnicCenter
+*.tps
